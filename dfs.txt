@@ -7,3 +7,7 @@ safaf
 
 dadd
 dfffffffffffffffffffffff
+dakkssdkfjlksj;fdjsf;;sd
+public static void mian(String[] args){
+	
+}
