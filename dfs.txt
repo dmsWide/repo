@@ -1,7 +1,9 @@
 dfs
 da
 df
-
+public static void dfs(){
+    int[][] graph;
+}
 fffffffffffffff
 safaf
 
@@ -9,5 +11,5 @@ dadd
 dfffffffffffffffffffffff
 dakkssdkfjlksj;fdjsf;;sd
 public static void mian(String[] args){
-	
+    int[][] graph;
 }
